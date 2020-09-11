@@ -9,7 +9,7 @@
         "url": "https://opensource.org/licenses/MIT"
       }
     },
-    "host": "localhost:3000",
+    "host": "https://nodetestappp10.azurewebsites.net/api-docs",
     "basePath": "/",
     "tags": [
       {
